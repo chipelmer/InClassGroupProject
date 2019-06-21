@@ -11,7 +11,6 @@ namespace InClassGroupProject
 
             // Add all the students
             students.Add("Brandon W. Dowds");
-
             students.Add("Lee M. Wolfe");
 
 
