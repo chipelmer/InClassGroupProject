@@ -12,6 +12,7 @@ namespace InClassGroupProject
             // Add all the students
             students.Add("Brandon W. Dowds");
             students.Add("Tanner D. Riddle");
+            students.Add("Stefano D Minervini");
 
 
             Random random = new Random();
