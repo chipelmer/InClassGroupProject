@@ -11,7 +11,7 @@ namespace InClassGroupProject
 
             // Add all the students
             students.Add("Brandon W. Dowds");
-
+            students.Add("Will Jones");
 
             Random random = new Random();
             int randomNumber = random.Next(0, students.Count);
