@@ -10,7 +10,7 @@ namespace InClassGroupProject
             List<string> students = new List<string>();
 
             // Add all the students
-            students.Add("Brandon W. Dowds");
+            students.Add("Brandon W. Dowds"); ("Kris Dixon");
 
 
             Random random = new Random();
