@@ -14,6 +14,31 @@ namespace InClassGroupProject
             students.Add("Tanner D. Riddle");
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            students.Add("John B. Clark");
+
+
             Random random = new Random();
             int randomNumber = random.Next(0, students.Count);
 
