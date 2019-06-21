@@ -10,8 +10,8 @@ namespace InClassGroupProject
             List<string> students = new List<string>();
 
             // Add all the students
+            students.Add("Brandon W. Dowds");
             students.Add("Nick Vannoy");
-
 
             Random random = new Random();
             int randomNumber = random.Next(0, students.Count);
